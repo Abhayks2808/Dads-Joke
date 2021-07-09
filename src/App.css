@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(114, 162, 170, 0.6113795860140931) 0%,
+    rgba(106, 234, 54, 1) 27%,
+    rgba(178, 63, 36, 0.9026961126247374) 86%
+  );
+  font-family: 'Rubik', sans-serif;
+  color:#78909c;
+}
